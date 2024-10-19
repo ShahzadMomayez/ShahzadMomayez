@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 
 
 ## About Me
 - 🎓 Computer Engineering Student at University of Tehran
