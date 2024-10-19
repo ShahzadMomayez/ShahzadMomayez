@@ -8,7 +8,7 @@
 - 🔬 Research Assistant focusing on **Medical Registration**.
 
 ## Skills
-- **Programming Languages**: Python, C++, C, JavaScript, ReactJS, C#, Verilog, c#.
+- **Programming Languages**: Python, ReactJS, C++, C, JavaScript, Java, C#, Verilog, c#.
 - **Technologies**: Docker, Git, Node.js, Opus Codec.
 - **Areas of Expertise**: Data Science, Full-Stack Development, Machine Learning, NLP, Cognitive Science.
 
