@@ -9,7 +9,7 @@
 
 ## Skills
 - **Programming Languages**: Python, ReactJS, C++, C, JavaScript, Java, C#, Verilog, c#.
-- **Technologies**: Docker, Git, Node.js, Opus Codec.
+- **Technologies**: Docker, Git, Node.js .
 - **Areas of Expertise**: Data Science, Full-Stack Development, Machine Learning, NLP, Cognitive Science.
 
 ## Connect with Me
