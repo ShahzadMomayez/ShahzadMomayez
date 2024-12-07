@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile! 
 
 ## About Me
-- 🎓 Computer Engineering Student at University of Tehran
-- 💻 Full-Stack Developer at Yaas Arghavani Industries (Affiliated with Mellat Bank)
-- 🔬 Research Assistant focusing on **Psychoanalysis of Artificial Intelligence** at Sharif University of Tehran. (ranked #342 in QS ranking)
-- 🔬 Research Assistant focusing on **NLP and LLMs** at Sharif University of Tehran. (ranked #342 in QS ranking)
-- 🔬 Research Assistant focusing on **Medical Image Registration** using deep learning.
+- Computer Engineering Student at University of Tehran
+- Full-Stack Developer at Yaas Arghavani Industries (Affiliated with Mellat Bank)
+- Research Assistant focusing on **Psychoanalysis of Artificial Intelligence** at Sharif University of Tehran. (ranked #342 in QS ranking)
+- Research Assistant focusing on **NLP and LLMs** at Sharif University of Tehran. (ranked #342 in QS ranking)
+- Research Assistant focusing on **Medical Image Registration** using deep learning.
 
 ## Skills
 - **Programming Languages**: Python, ReactJS, C++, C, JavaScript, Java, C#, Verilog, c#.
