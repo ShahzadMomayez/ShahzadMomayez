@@ -6,6 +6,7 @@
 - Research Assistant focusing on **Psychoanalysis of Artificial Intelligence** at Sharif University of Tehran.
 - Research Assistant focusing on **NLP and LLMs** at Sharif University of Tehran.
 - Research Assistant focusing on **Medical Image Registration** using deep learning at Northeastern University.
+- Internship in Cloud Engineering at Huawei
 
 ## Skills
 - **Programming Languages**: Python, ReactJS, C++, C, JavaScript, Java, C#, Verilog, c#.
