@@ -14,4 +14,7 @@
 - **Areas of Expertise**: Data Science, Full-Stack Development, Machine Learning, NLP, Cognitive Science.
 
 ## Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahzad-momayez-37a76216a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahzad-momayez)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=CbV-eZEAAAAJ&hl=en)
+
+
